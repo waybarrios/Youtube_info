@@ -3,6 +3,7 @@
 
 
 Retrieves information about Youtube Videos.
+ ```       
         Requires youtube-dl
         Args:
             - video_id: Youtube video identifier (11 str code)
@@ -11,6 +12,8 @@ Retrieves information about Youtube Videos.
             - resolution: [String] video resolution (WxH).
             - bitrate: [Integer] sum of VidBitRate & AudioBitRate.
             - fps: [Integer] frame per second rate of the video.
+          
+```
 
 Requirements
 ------------
